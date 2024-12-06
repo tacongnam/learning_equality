@@ -1,0 +1,10 @@
+numpy
+pandas
+tqdm
+scipy
+torch
+sentence_transformers
+tokenizers
+transformers
+scikit-learn
+iterative-stratification
